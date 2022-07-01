@@ -4,7 +4,7 @@ This is the latest version of my starter kit that I will be using from now on to
 
 # Switching between top drop down mobile and and side pop out mobile nav
 
-I built my mobile navs with a max-width media query so I can make any edits I want to them and not affect the desktop design.  This also allows me to swap in different code for different mobile styles and animations. There is a mobile-nav-options.css file that contains seperate code for top drop down and side pop out.  They're wrapped in a max-width: 1023px media query.  Just copy and paste the one you want to sue and it will change the mobile nav from a top drop down to a side pop out one.  No extra work needed!
+I built my mobile navs with a max-width media query so I can make any edits I want to them and not affect the desktop design.  This also allows me to swap in different code for different mobile styles and animations. There is a mobile-nav-options.css file that contains seperate code for top drop down and side pop out.  They're wrapped in a max-width: 1023px media query.  Just copy and paste the one you want to use and it will change the mobile nav from a top drop down to a side pop out one.  No extra work needed!
 
 
 # Simplified dark mode system.  
